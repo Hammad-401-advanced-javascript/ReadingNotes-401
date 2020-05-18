@@ -7,6 +7,7 @@
 * You are able to identify the errors and problems quickly.
 
 ## 2-In what case would you need to use beforeEach() or afterEach() in a test suite?
+**Often while writing tests you have some setup work that needs to happen before tests run, and you have some finishing work that needs to happen after tests run. Jest provides helper functions to handle this.**
 
 ## 3-What is one downside of Test Driven Development
 * Big time investment
