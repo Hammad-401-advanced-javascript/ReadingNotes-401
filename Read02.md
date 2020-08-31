@@ -59,7 +59,7 @@ const prefixedWords = words.map(prefixWordWithUnderscore)
 **A constructor is a function that creates an instance of a class which is typically called an “object”. In JavaScript, a constructor gets called when you declare an object using the new keyword. The purpose of a constructor is to create an object and set values if there are any object properties present**
 
 ### instance :
-**An “instance” means a reference to an “object” created by “new” or the equivalent.What's special about JavaScript, and other scripting languages, is that an “instance” is just a regular object; it's not what it is, but how it's made that is different.**
+**An “instance” means a reference to an “object” created by “new” or the equivalent.existing usually during the runtime of a computer program.**
 
 ### Context :
 **Context is always the value of the this keyword which is a reference to the object that “owns” the currently executing code**
