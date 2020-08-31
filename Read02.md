@@ -45,7 +45,7 @@ const prefixedWords = words.map(prefixWordWithUnderscore)
 ### The Object :
 **represents one of JavaScript's data types. It is used to store various keyed collections and more complex entities. Objects can be created using the Object() constructor or the object initializer / literal syntax.**
 ### OOP :
-**Object-oriented programming (OOP) refers to a type of computer programming (software design) in which programmers define the data type of a data structure, and also the types of operations (functions) that can be applied to the data structure.In this way, the data structure becomes an object that includes both data and functions. In addition, programmers can create relationships between one object and another.**
+**Object-oriented programming (OOP) refers to a type of computer programming (software design) has four basic concepts: encapsulation, abstraction, inheritance and polymorphism.**
 ### class :
 **Classes are in fact "special functions", and just as you can define function expressions and function declarations, the class syntax has two components: class expressions and class declarations. also,class are not hoisted.**
 ### prototype :
