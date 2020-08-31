@@ -1,6 +1,6 @@
 # Readings: Classes, Inheritance, Functional Programming
 
-###Test-driven development (TDD) is a development technique where you must first write a test that fails before you write new functional code.
+### Test-driven development (TDD) is a development technique where you must first write a test that fails before you write new functional code.
 
 ## 1-Name 3 advantages to Test Driven Development?
 * TDD creates a detailed specification.
