@@ -25,7 +25,7 @@
 ### SQL:
 **SQL is a standard language designed for managing data in relational database management system. SQL stands for Structured Query Language.**
 ### noSQL:
-**NoSQL provides high scaling out capability. NoSQL allows you to add any kind of data in your database because it is flexible. It also provides distributed storage and high availability of the data. Streaming is also accepted by NoSQL because it can handle a high volume of data which is stored in your database.**
+**NoSQL Database is a non-relational Data Management System, that does not require a fixed schema. It avoids joins, and is easy to scale.**
 ### MongoDB:
 **MongoDB is a document-oriented NoSQL database used for high volume data storage. Instead of using tables and rows as in the traditional relational databases, MongoDB makes use of collections and documents. Documents consist of key-value pairs which are the basic unit of data in MongoDB.**
 ### MongoDB V.S SQL :
