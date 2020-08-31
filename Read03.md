@@ -23,7 +23,7 @@
 ### sanitize:
 **checking user input before storing it in a database or using it for any other purpose to prevent malicious code injection.**
 ### SQL:
-**SQL statements are used to generate queries from a client program to the database. This can allow the users to execute a wide range of fast data manipulation.**
+**SQL is a standard language designed for managing data in relational database management system. SQL stands for Structured Query Language.**
 ### noSQL:
 **NoSQL provides high scaling out capability. NoSQL allows you to add any kind of data in your database because it is flexible. It also provides distributed storage and high availability of the data. Streaming is also accepted by NoSQL because it can handle a high volume of data which is stored in your database.**
 ### MongoDB:
