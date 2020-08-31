@@ -1,7 +1,7 @@
 # How to Solve Programming Problems
 ## Common mistakes
-**Improper allocation of time:The most common mistake I see when conducting interviews or watching someone try to solve a programming problem is they try to start writing code as soon as possible.
-You must resist this urge.**
+**Improper allocation of time:The most common mistake I see when conducting interviews or watching someone try to solve a programming problem is they try to start writing code as soon as possible.**
+**You must resist this urge.**
 
 ## Steps for solve any algorithm type programming problem:
 * Read the problem completely twice.
