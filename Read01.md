@@ -42,8 +42,8 @@ sum(2, 5);
 
 
 
-### Ecosystem: 
-**Managed lifecycle and dependency injection for your application components**
+## Ecosystem: 
+**ecosystem: "a collection of software projects, which are developed and co-evolve in the same environment”**
 
 ## Node.js:
 **is an open-source, cross-platform, JavaScript runtime environment that executes JavaScript code outside of a web browser.**
