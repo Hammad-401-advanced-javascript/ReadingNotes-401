@@ -12,7 +12,7 @@
 
 ## 4-Provide code snippets showing 3 different ways to export a function from a node module:
 
-1- Exporting Literals:
+**1- Exporting Literals:**
 app.js(export literal): module.exports="Helloo Hammad";
 
 index.js(import the file app.js to print the exported literal to the console.):
@@ -20,7 +20,7 @@ index.js(import the file app.js to print the exported literal to the console.):
 const name = require("./app");
 console.log(company);
 
-2-Exporting Object:
+**2-Exporting Object:**
 
 app.js :  module.exports = { 
 name: 'GeeksforGeeks', 
