@@ -23,7 +23,7 @@ When compared against relational databases, NoSQL databases are more scalable an
 NoSQL came along to handle the scale requirements as web apps and multi-tenant services were taking off. Given how hard the problems were to solve, it is understandable that these early attempts at dealing with scaling at the storage layer forced customers into a difficult set of trade-offs.  
 But relational databases have evolved. They can handle nearly all of the workloads, with the scalability, reliability, and availability requirements that modern applications demand.  
 
-### Name 3 cloud-based NoSQL Databases
+## Name 3 cloud-based NoSQL Databases
 Amazon DynamoDB.
 Amazon SimpleDB.
 Google Cloud Bigtable
