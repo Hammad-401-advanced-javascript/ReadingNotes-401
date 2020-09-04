@@ -2,17 +2,17 @@
 ## (HTTP) is a stateless request-response application layer protocol.
 **The HTTP specification defines how requests and responses should be formatted, but not what a service should represent.**
 
-### HTTP Request 
+## HTTP Request 
 **A HTTP/1.1 request is formatted in text and transferred using TCP. The first line of the request contains the METHOD, URL, and HTTP VERSION.**
 
-#### Safe :
+### Safe :
 **methods should only be used for information retrieval and should not change the server state.**
-#### Idempotent :
+### Idempotent :
 **methods means if two identical requests are made they should get an identical response.**
-#### Cacheable :
+## Cacheable :
 **means the client should be able to cache the response.**
 
-### HTTP Response :
+## HTTP Response :
 **A HTTP/1.1 response is also formatted in text and transferred using TCP. The first line of the response contains the HTTP VERSION, STATUS CODE, and STATUS MESSAGE.**
 
 ## REST :
