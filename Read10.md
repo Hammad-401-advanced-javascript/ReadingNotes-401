@@ -19,7 +19,7 @@ no matter how many Nodes (n) you have in the stack.**
 be re-assigned to the Node that lives below and the top Node is returned to the user**
 
 ## In the queue only two operations are allowed
-### Enqueue and dequeue. 
+## Enqueue and dequeue. 
 **Enqueue means to insert an item into the back of the queue, dequeue means removing the front item. The picture
 demonstrates the FIFO access. The difference between stacks and queues is in removing.**
 
