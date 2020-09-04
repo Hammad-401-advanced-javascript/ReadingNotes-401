@@ -18,7 +18,7 @@ away your password.**
 a user-agent. There's not just Implicit and Authorization Code flows, there are additional flows you can do with OAuth. Again, OAuth is 
 more of a framework**
 
-### JWT  VS OAuth?
+## JWT  VS OAuth?
 
 **So the real difference is that JWT is just a token format, OAuth 2.0 is a protocol (that may use a JWT as a token format). Firstly, we 
 have to differentiate JWT and OAuth. ... OAuth is an authorization protocol that can use JWT as a token. OAuth uses server-side and
