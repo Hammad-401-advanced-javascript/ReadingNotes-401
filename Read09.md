@@ -4,7 +4,7 @@
 **Mongoose takes some of that pain away from us as developers and allows us to provide some level of rules and validation around our data models**
 
 **ORM : programming technique for converting data between incompatible type systems using object-oriented programming languages. This creates, in effect,
-a "virtual object database" that can be used from within the programming language**
+a virtual object database" that can be used from within the programming language**
 
 **Mongoose gives you the ability to take that a step further and use a schema to describe a deeper part of a data model. This can be
 useful when a document contains potentially a list of other documents.**
