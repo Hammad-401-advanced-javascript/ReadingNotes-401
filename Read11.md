@@ -19,7 +19,7 @@ difficult to reverse.**
 **A Cryptographic Cypher Algorithm takes a piece of data and a key and produces encrypted data.
 Later the encrypted data can be reversed into the original data by decrypting it using the same key.**
 
-## Basic Authorization:
+### Basic Authorization:
 **Basic Authorization is a common method used to send a username and password in an HTTP request. 
 The username and password are joined with a ‘:’ then “base64 encoded” and placed after the string ‘Basic ‘. 
 The resulting string is set to the value of an Authorization header.**
