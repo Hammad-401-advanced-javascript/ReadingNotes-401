@@ -7,7 +7,7 @@
 **One of the most important things about middleware in Express is the order in which they are written/included in your file; the order in which they are executed, given that the route matches also needs to be considered.**
 **For example, in the following code snippet, the first function executes first, then the route handler and then the end function. This example summarizes how to use middleware before and after route handler; also how a route handler can be used as a middleware itself.**
 
-### Supertest:
+## Supertest:
 **The motivation with this module is to provide a high-level abstraction for testing HTTP, while still allowing you to drop down to the lower-level API provided by superagent.**
 
 ![image](https://expressjs.com/images/express-mw.png)
