@@ -22,8 +22,8 @@ node as a child. We fill the child slots from left to right.**
 **In the event you would like to have a node placed in a specific location, you need to reference both the new node to create,
 and the parent node upon which the child is attached to.**
 
-**Big O
-The Big O time complexity for inserting a new node is O(n). Searching for a specific node will also be O(n). Because of the lack of
+### Big O
+**The Big O time complexity for inserting a new node is O(n). Searching for a specific node will also be O(n). Because of the lack of
 organizational structure in a Binary Tree, the worst case for most operations will involve traversing the entire tree. If we assume
 that a tree has n nodes, then in the worst case we will have to look at n items, hence the O(n) complexity.**
 
