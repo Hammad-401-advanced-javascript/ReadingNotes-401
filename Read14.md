@@ -1,7 +1,7 @@
 # Access Control (ACL)
 #### An access control list (ACL) is a table that tells a computer operating system which access rights each user has to 
-a particular system object, such as a file directory or individual file. Each object has a security attribute that identifies 
-its access control list.
+**a particular system object, such as a file directory or individual file. Each object has a security attribute that identifies 
+its access control list.**
 
 **ACL (Access Control List) Community Auth has an Access Control List (ACL) to help give you finer control over permissions
 on your website. This feature is not for direct authentication, and only available after authenticating your user**
