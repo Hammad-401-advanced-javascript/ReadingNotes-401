@@ -8,9 +8,9 @@ WebSocket open all the time so they allow the real-time data transfer.**
 divided into two parts, each of which use WebSockets, but also provide additional functionality such as broadcasting, 
 namespacing, and other means of segmenting connected clients into groups.**
 
-#### Client Side: it is the library that runs inside the browser
+### Client Side: it is the library that runs inside the browser
 
-#### Server Side: It is the library for Node.js
+### Server Side: It is the library for Node.js
 
 **In an event driven node app, the entire app is in memory, and (through a common event pool), all
 parts of your application can emit and hear events, communicating with each other. However, no outside application
