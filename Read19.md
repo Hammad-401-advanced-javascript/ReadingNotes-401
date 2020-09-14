@@ -22,7 +22,7 @@ inside it.
 **Namespaces are used to organize code into logical groups and to prevent name collisions that can occur especially when your
 codebase includes multiple libraries.**
 
-Default namespace
+**Default namespace**
 We call the default namespace / and it’s the one Socket.IO clients connect to by default, and the one the server listens to by default.
 
 
