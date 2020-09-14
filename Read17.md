@@ -8,7 +8,7 @@ and technology. The OSI Model has 7-layers.**
 
 **The Internet Protocol Suite is the conceptual model for the protocols used by the internet. The Internet Protocol has 4-layers.**
 
-## TCP
+### TCP
 
 **The Transmission Control Protocol (TCP) is widely used by application layer protocols in the Internet Protocol Suite.**
 
