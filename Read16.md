@@ -12,7 +12,7 @@ messages from other programs.**
 
 **A main Loop listens for event triggers and calls the associated event handler for that event.**
 
-### EventEmitter:
+## EventEmitter:
 
 **EventEmitter that allows us to get started incorporating Event-Driven Programming in our project right away.**
 
